@@ -78,10 +78,3 @@ A Python web scraping project that extracts healthcare provider information from
 - Review Count
 - Scraped At
 
-## Why this project matters
-
-This project demonstrates practical web scraping, structured data extraction, healthcare directory parsing, data cleaning and QA review. It is relevant to data operations, AI-assisted workflows, and web extraction roles that require accurate structured outputs.
-
-## Notes
-
-This project is for portfolio and learning purposes. It uses request delays and avoids aggressive scraping behavior.
